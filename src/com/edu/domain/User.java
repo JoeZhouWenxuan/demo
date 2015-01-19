@@ -1,8 +1,13 @@
 package com.edu.domain;
 
-
+/**
+ * @author zhou_wenxuan
+ * 
+ * /
 public class User {
-
+	/**
+	 * 
+	 * /
 	private Long id;
 	private String name;
 
